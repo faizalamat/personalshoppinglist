@@ -13,7 +13,13 @@
             "title": "Rice",
             "quantity": 1,
             "price": 0.99
-        }
+        },
+        {
+            "id": 3,
+            "listId": 1,
+            "title": "Egg",
+            "quantity": 1,
+            "price": 0.25
     ],
     "lists": [
         {
